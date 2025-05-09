@@ -1,0 +1,4 @@
+backend/.env      # your backend .env
+
+.DS_Store
+.vscode/
